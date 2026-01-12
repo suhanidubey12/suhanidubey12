@@ -7,7 +7,7 @@ int main() {
 
     // Seed for random number
     srand(time(0));
-
+https://github.com/suhanidubey12/suhanidubey12/edit/main/game1.c
     // Random number between 1 and 100
     number = rand() % 100 + 1;
 
@@ -31,6 +31,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
