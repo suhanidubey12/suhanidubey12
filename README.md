@@ -11,7 +11,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 **B.Tech (ECE) Student**
+- 🎓 **B.Tech (ECE) Studt**
 - 🤖 Passionate about **Artificial Intelligence & Generative AI**
 - 🌱 Currently learning **Python, ML, GenAI, Web Development**
 - 🧠 Interested in **AI Chatbots, Voice Assistants & Smart Systems**
