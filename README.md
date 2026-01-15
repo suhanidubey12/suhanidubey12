@@ -16,7 +16,7 @@
 - 🌱 Currently learning **Python, ML, GenAI, Web Development**
 - 🧠 Interested in **AI Chatbots, Voice Assistants & Smart Systems**
 - 🎯 Goal: **Become a top GenAI Engineer**
-- 💬 Ask me about **Python, AI, ML, GitHub, Projectsssss**
+- 💬 Ask me about **Python, AI, ML, GitHub, Projects**
 - ⚡ Fun fact: *I learn fast and never give up!*
 
 ---
