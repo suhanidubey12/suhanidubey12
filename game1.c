@@ -13,7 +13,7 @@ https://github.com/suhanidubey12/suhanidubey12/edit/main/game1.c
     
     printf("🎮 Welcome to Number Guessing Game!\n");
     printf("Guess a number between 1 and 100\n");
-
+    
     do {
         printf("Enter your guess: ");
         scanf("%d", &guess);
@@ -31,6 +31,7 @@ https://github.com/suhanidubey12/suhanidubey12/edit/main/game1.c
 
     return 0;
 }
+
 
 
 
