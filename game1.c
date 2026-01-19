@@ -10,7 +10,6 @@ int main() {
 https://github.com/suhanidubey12/suhanidubey12/edit/main/game1.c
     // Random number between 1 and 100
     number = rand() % 100 + 1;
-
     
     printf("🎮 Welcome to Number Guessing Game!\n");
     printf("Guess a number between 1 and 100\n");
@@ -32,6 +31,7 @@ https://github.com/suhanidubey12/suhanidubey12/edit/main/game1.c
 
     return 0;
 }
+
 
 
 
