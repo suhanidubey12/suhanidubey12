@@ -29,10 +29,11 @@ https://github.com/suhanidubey12/suhanidubey12/edit/main/game1.c
             printf("🎉 Correct! You guessed it in %d attempts.\n", attempts);
         }
 
-    } while (guess != number);
+    } while (guess != number)
 
     return 0;
 }
+
 
 
 
