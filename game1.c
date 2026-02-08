@@ -26,13 +26,14 @@ https://github.com/suhanidubey12/suhanidubey12/edit/main/game1.c
         } else if (guess < number) {
             printf("Too Low!\n");
         } else {
-            printf("🎉 Correct! You guessed it in %d attempts.\n", attempts)
+            printf("🎉 Correct! You guessed it in %d attempts.\n", attempts);
         }
 
     } while (guess != number);
 
     return 0;
 }
+
 
 
 
