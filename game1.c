@@ -31,8 +31,9 @@ https://github.com/suhanidubey12/suhanidubey12/edit/main/game1.c
 
     } while (guess != number);
 
-    return 0;
+    return 0
 }
+
 
 
 
