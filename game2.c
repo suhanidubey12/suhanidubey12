@@ -8,7 +8,6 @@ int main()
     char choice;
     int userScore = 0, compScore = 0;
     
-
     srand(time(0));   // random seed
 
     do {
