@@ -8,7 +8,6 @@ int main() {
     
 
 
-
     // Seed for random number
     srand(time(0));
 https://github.com/suhanidubey12/suhanidubey12/edit/main/game1.c
@@ -35,6 +34,7 @@ https://github.com/suhanidubey12/suhanidubey12/edit/main/game1.c
 
     return 0;
 }
+
 
 
 
