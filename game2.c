@@ -3,8 +3,6 @@
 #include <time.h>
 
 
-
-
 int main()
 {
     int user, computer;
